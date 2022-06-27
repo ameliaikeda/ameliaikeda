@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey there 👋
+
+I'm Amelia (she/they, hun/hen). I'm a payments engineer over at [Banked](https://github.com/banked) 🚀
+
+Also, trans right are human rights. Å elske er også en menneskerett.
+
+<p align="center">🏳️‍⚧️ 💖🧡💛💚💙💜 🏳️‍🌈</p>
 
 <!--
 **ameliaikeda/ameliaikeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
